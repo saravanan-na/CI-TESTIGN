@@ -1,0 +1,10 @@
+<environments>
+    <environment default="true" desc="Production Environment is used for Development purpose only" name="Production">
+        <WebService desc="" name="servicetest">
+            <port>2020</port>
+            <context>eshop</context>
+            <host>172.16.17.180</host>
+            <protocol>http</protocol>
+        </WebService>
+    </environment>
+</environments>
